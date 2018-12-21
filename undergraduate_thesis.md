@@ -23,3 +23,23 @@ the studied defects, and hypotheses are presented for
 errors for different correction methods. Possible
 future developments of corrections for high-throughput
 point defect calculation workflows are discussed.
+
+## Notes
+
+I wrote this thesis under the supervision of Mark Asta (Materials Science and Engineering, UC Berkeley)
+and with valuable feedback from my PhD student advisor, Danny Broberg. If you use information
+in the paper or the code ([pawpyseed](https://github.com/kylebystrom/pawpyseed))
+for research in a scientific publication, please cite it:
+
+```
+@article{pawpyseed,
+  title = {Pawpyseed: A parallelized Python/C package to aid in density functional theory point defect calculations via utilities for band shifting corrections},
+  author = {Kyle Bystrom},
+  year = {2018},
+  month = {Dec},
+  url = {https://kylebystrom.github.io/undergraduate_thesis.html}
+}
+```
+
+I hope to have a peer-reviewed publication on this work at some point, but for the time being
+I just wanted to have it publicly accessible.
