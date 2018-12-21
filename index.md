@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## HI!
 
-You can use the [editor on GitHub](https://github.com/kylebystrom/kylebystrom.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a scientific computing nerd with a B.S. in Chemistry. I made this website to share
+projects I'm working on and unpublished research like my undergraduate thesis.
+There's not a lot here right now, but more will be here in the future!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
