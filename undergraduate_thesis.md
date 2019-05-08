@@ -27,19 +27,29 @@ point defect calculation workflows are discussed.
 ## Notes
 
 I wrote this thesis under the supervision of Mark Asta (Materials Science and Engineering, UC Berkeley)
-and with valuable feedback from my PhD student advisor, Danny Broberg. If you use information
+and with valuable feedback from my PhD student advisor, Danny Broberg.
+
+If you use information
 in the paper or the code ([pawpyseed](https://github.com/kylebystrom/pawpyseed))
-for research in a scientific publication, please cite it:
+for research in a scientific publication, please cite the arxiv paper on pawpyseed
+(which is more concise than my thesis and contains better-developed data and results):
 
 ```
-@article{pawpyseed,
-  title = {Pawpyseed: A parallelized Python/C package to aid in density functional theory point defect calculations via utilities for band shifting corrections},
-  author = {Kyle Bystrom},
-  year = {2018},
-  month = {Dec},
-  url = {https://kylebystrom.github.io/undergraduate_thesis.html}
+@ARTICLE{2019arXiv190411572B,
+       author = {{Bystrom}, Kyle and {Broberg}, Danny and {Dwaraknath}, Shyam and
+         {Persson}, Kristin A. and {Asta}, Mark},
+        title = "{Pawpyseed: Perturbation-extrapolation band shifting corrections for point defect calculations}",
+      journal = {arXiv e-prints},
+     keywords = {Condensed Matter - Materials Science},
+         year = "2019",
+        month = "Apr",
+          eid = {arXiv:1904.11572},
+        pages = {arXiv:1904.11572},
+archivePrefix = {arXiv},
+       eprint = {1904.11572},
+ primaryClass = {cond-mat.mtrl-sci},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190411572B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-```
 
-I hope to have a peer-reviewed publication on this work at some point, but for the time being
-I just wanted to have it publicly accessible.
+```
