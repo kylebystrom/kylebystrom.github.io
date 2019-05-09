@@ -36,7 +36,7 @@ for research in a scientific publication, please cite the arxiv paper on pawpyse
 
 ```
 @ARTICLE{2019arXiv190411572B,
-       author = {{Bystrom}, Kyle and {Broberg}, Danny and {Dwaraknath}, Shyam and
+       author = { {Bystrom}, Kyle and {Broberg}, Danny and {Dwaraknath}, Shyam and
          {Persson}, Kristin A. and {Asta}, Mark},
         title = "{Pawpyseed: Perturbation-extrapolation band shifting corrections for point defect calculations}",
       journal = {arXiv e-prints},
